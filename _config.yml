@@ -1,0 +1,28 @@
+name: LeighAnn
+favicon: null
+layout_spectrum: 0.36802130192518234
+typography_spectrum: 0.6918051075190306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4184343502856791
+  lightness: 0.10058028623461723
+  saturation: 0.8446869165636599
+  rhythmicContrast: 0.8800379240419716
+purpose: []
