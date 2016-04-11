@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LeighAnn]]></title>
         <description><![CDATA[LeighAnn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leighann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 20:43:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 00:10:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leighann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cosmic Love Letter - A truly life-changing transmission by Matt Kahn]]></title>
+            <description><![CDATA[<article><h1>Cosmic Love Letter - A truly life-changing transmission by Matt Kahn</h1><p>Matt Kahn's transmission extracted from the retreat "Awakening True Happiness", October 2015 - Music composed by Gopal Anand - Film edited by Playade Productions More info about Matt Kahn and his teachings: http://www.truedivinenature.com Gopal's Music: http://www.playade.net/ MORE VIDEOS WITH MATT KAHN: Let heaven enter you: https://youtu.be/iXq4bDx4xMM Entering Relaxation: https://youtu.be/blZbzzStWO8</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e47e118466c687f2e4f0781fda9e7ce7d81b163.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1ccKFHH2Zi8</link>
+            <guid isPermaLink="false">b95ac573-c79e-4bef-84d5-ff84baeccf13</guid>
+            <pubDate>Mon, 11 Apr 2016 00:10:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a605b0d9-25c6-4f13-9063-9895ef6cf609.jpg">]]></description>
-            <link>undefined9f92eb04-1d19-410c-b2a3-7cf383d831bc/index.html</link>
+            <link>https://thegrid.ai/leighann/9f92eb04-1d19-410c-b2a3-7cf383d831bc/index.html</link>
             <guid isPermaLink="false">9f92eb04-1d19-410c-b2a3-7cf383d831bc</guid>
             <pubDate>Thu, 25 Feb 2016 20:41:29 GMT</pubDate>
         </item>
