@@ -1,7 +1,7 @@
 name: LeighAnn
 favicon: null
 layout_spectrum: 0.15144
-typography_spectrum: 0.41709
+typography_spectrum: 0.99902
 title: LeighAnn
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b59400'
     - '#4292a2'
     - '#706a00'
-  brandStrength: 0.875
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
